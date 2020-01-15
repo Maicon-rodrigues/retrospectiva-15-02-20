@@ -15,7 +15,7 @@ public class funcionarios {
         funcionarios[3] = "jroger";
 
         int contador = 4;
-            for (String pessoas : funcionarios){
+        for (String pessoas : funcionarios){
             contador++;
             System.out.println("funcionario" + ":" + pessoas);
 
@@ -32,5 +32,6 @@ public class funcionarios {
 
 
         }
+
     }
 }
